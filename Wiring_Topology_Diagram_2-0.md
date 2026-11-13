@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     classDef laser fill:#E3F2FD,stroke:#1E88E5,stroke-width:1px,color:#0D47A1;
     classDef optics fill:#E8F5E9,stroke:#43A047,stroke-width:1px,color:#1B5E20;
@@ -64,3 +65,4 @@ flowchart TD
     class BS,EXP,REF,PBS1,PBS2,PD1,PD2 optics
     class DIFF,LI,BOX,TDC,HOST detector
     class ISO,BREAD,TEMP environment
+```
