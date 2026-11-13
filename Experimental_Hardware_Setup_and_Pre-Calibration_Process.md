@@ -1,7 +1,7 @@
 This "White-Judy Experiment 2.0" solution centers on dual-channel differential reverse noise cancellation + multidimensional signal amplification + million-level sample amplification, reducing the displacement noise from the original experiment from 0.1 pm/√Hz directly to the limit of scattered noise at 0.02 pm/√Hz, ultimately achieving an effective analytical data volume far exceeding the original.
 
 🛠️ Experimental hardware setup and pre-calibration process
-Uses a 632.8nm ultra-stable He-Ne laser, preheated for 2 hours after startup, with light intensity fluctuations controlled within the 10⁻⁶ order.
+Uses a 632.8nm ultra-stable He-Ne laser, preheated for 2 hours after startup, with light intensity fluctuations controlled within the 10⁻⁶ order.<br>
 Construct an improved Mach-Zendl interferometer, with a beam splitting ratio strictly set at 50:50, controlling the initial optical path difference between the two arms within 1 cm to ensure the two beams are fully within the coherent length range.
 A 30m compensation delay fiber is inserted into the experimental beam path to offset interference from laser frequency noise. This step can directly reduce the system's effective displacement noise value from 0.106 pm/√Hz to 0.024 pm/√Hz, reaching the limit for scattered noise.
 The optical paths of both beams are fully adjusted to contour coaxial, and two apertures are placed at the far end of the paths to ensure the laser beams fully pass through the center of each aperture and achieve complete spatial alignment of the two beams.
