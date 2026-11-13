@@ -12,7 +12,7 @@ graph TD
     I --> J["Digital Lock-in Amplifier (Synchronized to 1 kHz Modulation Reference)"]
     J --> K["Boxcar Integrator (10,000-cycle Synchronous Accumulation)"]
     K --> L[High-Precision Time-to-Digital Converter]
-    L --> M[Industrial Control Host |72-hour Continuous Data Storage|]
+    L --> M["Industrial Control Host (72-hour Continuous Data Storage)"]
     N[Two-stage Active Seismic Isolation Platform] --> O["ULE (Ultra-Low Expansion) Optical Breadboard"]
     P[Closed-loop Temperature Control System for the Entire Enclosure] --> O
     O --> [Supports All Optical Components]
