@@ -15,7 +15,7 @@ graph TD
     L --> M["Industrial Control Host (72-hour Continuous Data Storage)"]
     N[Two-stage Active Seismic Isolation Platform] --> O["ULE (Ultra-Low Expansion) Optical Breadboard"]
     P[Closed-loop Temperature Control System for the Entire Enclosure] --> O
-    O --> [Supports All Optical Components]
-    Q[1 kHz Square-Wave Modulation Source] --> [High-Electric-Field Curvature Ring]
+    O --> ["Supports All Optical Components"]
+    Q[1 kHz Square-Wave Modulation Source] --> ["High-Electric-Field Curvature Ring"]
     Q --> J["Digital Lock-in Amplifier (Reference Input)"]
 ```
