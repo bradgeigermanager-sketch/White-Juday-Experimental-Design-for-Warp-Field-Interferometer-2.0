@@ -25,4 +25,4 @@ flowchart TD
     C1["High-Electric-Field Curvature Ring"]
     Q["1 kHz Square-Wave Modulation Source"] -->|"modulates"| C1
     Q -->|"reference input"| J
-    ```
+```
